@@ -31,7 +31,7 @@ header a {
   /* Home Page */
 .welcome {
     background-image: url(../Home.jpg);
-    background-size: 70vh;
+    background-size: ;
     background-repeat: no-repeat;
     min-height: 70vh;
   }
