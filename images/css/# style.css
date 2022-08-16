@@ -8,24 +8,25 @@
     font-family: Sofia Pro, Verdana, Geneva, Tahoma, sans-serif;
   
     p {
-        border: 2px solid powderblue;
-        padding: 30px;
+        border; 2px solid powderblue;
+        padding; 30px
       }
 
   header,
-footer {
-  background-color: #202020;
-  color: #fff;
+  footer 
+  {
+  background-color: #202020
+  color: #fff
 }
 
 header a {
-  color: #fff;
+  color: #fff
 }
 
 
 
   footer {
-    text-align: center;
+    text-align: center
   }
 
  
