@@ -7,17 +7,7 @@
   body {
     font-family: Sofia Pro, Verdana, Geneva, Tahoma, sans-serif;
   
-    p: {
-        border: 2px solid powderblue;
-        padding: 30px;
-      }
-
-      <style>
-        p {
-          border: 2px solid powderblue;
-          padding: 30px;
-        }
-        </style>
+    
 
   header,
 footer {
