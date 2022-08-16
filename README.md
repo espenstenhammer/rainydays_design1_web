@@ -1,7 +1,11 @@
 # rainydays_design1_web
+
 GOAL: 
 Deliver a responsive version of your home page for your cross-course project of the website you designed in Design 1.
-Brief:
+
+
+
+BRIEF:
 You have been tasked with developing the home page of the prototype you built in Design 1. 
 
 The home page should:
