@@ -10,9 +10,10 @@ h1 {
 }
 
 p {
-  font-family: verdana;
+  font-family: serif verdana;
   font-size: 20px;
   text-align: center;
   border: lightskyblue;
+  border-width: 4px;
 }
 
