@@ -13,17 +13,17 @@
   margin-right: auto;
   width: 50%;
 }
-h1 {
+.h1 {
   text-align: center;
 }
-p {
+.p {
 
   text-align: center;
   color: rgb(2, 1, 1);
   text-align: center;
 }
 
-p {
+.p {
   font-family: sans serif, verdana;
   font-size: 20px;
 }
