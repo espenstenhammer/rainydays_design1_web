@@ -1,39 +1,17 @@
 
-  
-  html{
-    height: 100%;
-    width: 100%;
-    background-color: #3DD14B;
-}
+
+
 
 <style>
-p {
- text-align:center
-}
-</style>
-  body {
-    font-family: Sofia Pro, Verdana, Geneva, Tahoma, sans-serif;
-  
     p {
-        border; 2px solid powderblue;
-        padding; 30px
-      }
-
-  header,
-  footer 
-  {
-  background-color: #202020
-  color: #fff
+      border: 2px solid powderblue;
+      padding: 30px;
+    }
+   
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
 }
 
-header a {
-  color: #fff
-}
-
-
-
-  footer {
-    text-align: center
-  }
-
- 
+    </style>
