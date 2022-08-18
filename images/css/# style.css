@@ -1,5 +1,5 @@
 
-.style p
+style p
 {
 
   border: 2px solid powderblue;
@@ -7,8 +7,19 @@
 }
 
 
-.h1 {
+
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
   text-align: center;
 }
 
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
 
