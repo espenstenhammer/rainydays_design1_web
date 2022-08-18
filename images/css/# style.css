@@ -5,6 +5,12 @@
     width: 100%;
     background-color: #3DD14B;
 }
+
+<style>
+p {
+ text-align:center
+}
+</style>
   body {
     font-family: Sofia Pro, Verdana, Geneva, Tahoma, sans-serif;
   
