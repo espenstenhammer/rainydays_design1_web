@@ -14,7 +14,7 @@ h1 {
   border-width: 5px;
 }
 
-p {
+p.center {
   font-family: serif verdana;
   font-size: 20px;
   text-align: center;
