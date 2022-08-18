@@ -2,10 +2,12 @@
 header {
 
   width: 50%;
-  align: center
+  
 }
 
-
+text {
+  text-align: center;
+}
 
 
 body {
@@ -20,5 +22,7 @@ h1 {
 p {
   font-family: verdana;
   font-size: 20px;
+  text-align: center;
+  border: lightskyblue;
 }
 
