@@ -3,8 +3,8 @@ footer {
   
   background-color: #202020;
   color: #fff;
-
-header a {
+border: #202020; width: 4px;
+  header a {
   color: #fff;
 }
 
@@ -30,10 +30,10 @@ image {
 
 
 footer {
-  text-align: center;
+text-align: center;
 }
 
 /* Home page */
 .welcome {
-  background-image: url("../images/home-header.jpg");
+  background-image: url("./images/home-header.jpg");
   }
