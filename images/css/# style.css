@@ -9,3 +9,7 @@ header a {
 }
 
 
+/* Home page */
+.welcome {
+  background-image: url("./image/Home.jpg");
+  }
