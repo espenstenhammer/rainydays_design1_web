@@ -8,8 +8,10 @@ header a {
   color: #fff;
 }
 
-.cta-sale {
-  background-color: #127300;
+.cta {
+  background-color: #bb0000;
+  color: #fff;
+  font-size: 1.5em;
 }
 
 
