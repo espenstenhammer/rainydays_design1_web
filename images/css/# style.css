@@ -27,4 +27,7 @@ footer {
   text-align: center;
 }
 
-
+/* Home page */
+.welcome {
+  background-image: url("../images/home-header.jpg");
+  }
