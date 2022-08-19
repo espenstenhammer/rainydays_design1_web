@@ -2,8 +2,8 @@ header,
 footer {
   
   background-color: #202020;
-  color: #fff;
-border: #202020; width: 4px;
+  color: rgb(180, 22, 22);
+  border: #202020; width: 4px;
   header a {
   color: #fff;
 }
