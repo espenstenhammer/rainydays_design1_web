@@ -1,5 +1,5 @@
-header,
-footer {
+header
+ {
   
   background-color: #202020;
   color: rgb(180, 22, 22);
@@ -17,9 +17,6 @@ footer {
 footer {
 
   text-align: center;
-}
-image {
-  header: center;
 }
 
 
