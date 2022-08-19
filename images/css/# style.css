@@ -14,6 +14,10 @@ footer {
   font-size: 1.5em;
 }
 
+footer {
+
+  text-align: center;
+}
 image {
   header: center;
 }
